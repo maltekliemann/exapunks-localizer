@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+pillow
+lz4
+fonttools
+pymupdf
+pyphen

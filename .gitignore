@@ -1,0 +1,9 @@
+# Your game copy, backups, extracted text and translations live here. Never commit it.
+workspace/
+.venv/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.tex
+.DS_Store
